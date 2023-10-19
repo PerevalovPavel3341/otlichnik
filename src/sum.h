@@ -1,2 +1,2 @@
 #pragma once
-int sum(int, int);
+int sum(int[], int);

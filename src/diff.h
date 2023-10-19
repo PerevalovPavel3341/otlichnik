@@ -1,2 +1,2 @@
 #pragma once
-int diff(int, int);
+int diff(int[], int);

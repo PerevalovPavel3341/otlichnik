@@ -1,2 +1,2 @@
 #pragma once
-int max(int, int);
+int max(int[], int);

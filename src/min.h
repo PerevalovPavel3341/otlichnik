@@ -1,2 +1,2 @@
 #pragma once
-int min(int, int);
+int min(int[], int);
